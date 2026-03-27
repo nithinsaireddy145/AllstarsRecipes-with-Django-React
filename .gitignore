@@ -1,0 +1,17 @@
+.DS_Store
+.env 
+.env/
+.venv/
+env/
+venv/
+*.env
+
+# npm
+node_modules/
+
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
